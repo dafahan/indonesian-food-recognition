@@ -24,8 +24,8 @@
 
 ## Screenshots
 
-<img src="https://github.com/dafahan/indonesian-food-recognition/blob/master/SC1.png">
-<img src="https://github.com/dafahan/indonesian-food-recognition/blob/master/SC2.png">
+<img src="https://github.com/dafahan/indonesian-food-recognition/blob/main/SC1.png?raw=true">
+<img src="https://github.com/dafahan/indonesian-food-recognition/blob/main/SC2.png?raw=true">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
