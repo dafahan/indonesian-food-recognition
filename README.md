@@ -12,8 +12,8 @@
   ```
   pip install -r requirements.txt
   ```
-- `Fruits_Vegetable_Classification.py` is the main Python file of Streamlit Web-Application. 
-- `Fruit_Veg_Classification_Mobilenet.ipynb` is the Notebook file of the Training
+- `App.py` is the main Python file of Streamlit Web-Application. 
+- `foodModel.ipynb` is the Notebook file of the Training
 - To run app, write following command in CMD. or use any IDE.
 
   ```
