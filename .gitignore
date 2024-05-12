@@ -1,5 +1,5 @@
 .venv
-upload_images/*
+
 .gitignore
 input.xlsx
 output_file.csv
